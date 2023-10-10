@@ -1,2 +1,2 @@
 # SDSFirstRepository
-First Repository File for SDS 313 Ffall 2023
+First Repository File for SDS 313 Fall 2023
